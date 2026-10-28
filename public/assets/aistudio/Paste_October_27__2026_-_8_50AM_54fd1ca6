@@ -1,0 +1,672 @@
+# BUILD NEXAMOR: OFFICIAL AI TRANSFORMATION PARTNER WEBSITE
+
+Act as a world-class product designer, conversion-focused copywriter, senior full-stack engineer, brand strategist, and AI automation architect.
+
+Build a complete, production-oriented official website for **Nexamor**, positioned as an **AI Transformation Partner (AITP)** that helps businesses automate customer communication, appointment booking, lead management, and operational workflows.
+
+This website is our first impression for Australian business owners. It must look credible, sophisticated, technically capable, persuasive, and commercially focused.
+
+Do not build a generic digital agency website. Do not produce only a static hero section. Build a complete, responsive website with real navigation, meaningful page sections, functional interactions, reusable components, and a professional mobile experience.
+
+Use the existing project if one exists. Inspect its structure before making changes. If starting from scratch, use the supported React and TypeScript stack, clean component architecture, and appropriate deployment configuration.
+
+## 1. BRAND POSITIONING
+
+Brand name: Nexamor
+
+Brand category: AI Transformation Partner (AITP)
+
+Primary market: Australia
+
+Primary language: Australian English
+
+Primary audience:
+- HVAC and air conditioning companies.
+- Plumbers and emergency plumbing companies.
+- Electrical contractors.
+- Hair salons and hairdressers.
+- Barbershops and beauty salons.
+- Dental practices and orthodontists.
+- Physiotherapy and allied-health clinics.
+- Automotive workshops.
+- Other appointment-based and enquiry-driven businesses.
+
+Core positioning:
+
+"We don't just add AI to your business. We engineer the systems that help it respond, book, follow up, and operate better."
+
+Nexamor helps businesses move beyond disconnected chatbots and manual processes towards practical, integrated AI systems.
+
+Our goal is to sell measurable business improvements, not AI hype.
+
+### Brand voice
+
+- Confident, sharp, direct, and commercially intelligent.
+- Engineer-led rather than sales-heavy.
+- Clear enough for a nontechnical business owner.
+- Focused on problems, solutions, business outcomes, and implementation.
+- Premium without sounding arrogant.
+- Persuasive without fearmongering or unsupported claims.
+
+Avoid generic AI phrases such as "unlock the power of AI", "revolutionise your business", or "the future is here".
+
+## 2. VISUAL IDENTITY: AUSTRALIAN-INSPIRED PREMIUM TECH
+
+Create a distinctive Australian-inspired design language that communicates trust, reliability, and modern engineering.
+
+### Colour palette
+
+- Deep midnight navy: primary backgrounds and navigation.
+- Warm white: content sections and text surfaces.
+- Eucalyptus green: primary action accents.
+- Muted sandstone or restrained ochre: secondary highlights.
+- Cool slate: body text, borders, and technical details.
+
+Use green as a subtle nod to the Australian landscape. Avoid excessive green, flag patterns, or literal national symbols throughout the website.
+
+### Design characteristics
+
+- Editorial typography with strong headlines.
+- Premium typography pairing, using a distinctive display font and highly readable sans-serif.
+- Spacious layouts and carefully controlled content widths.
+- Fine grid lines, restrained technical diagrams, and architectural motifs.
+- High-quality photography of real Australian business environments.
+- Subtle map or geographic motifs referencing Australian service businesses.
+- Refined motion, understated hover states, and purposeful transitions.
+- Strong contrast and accessible controls.
+- Responsive layouts for desktop, tablet, and mobile.
+
+The site should feel like a specialist AI infrastructure company, not a cheap template agency.
+
+Do not use excessive gradients, glowing purple AI imagery, random floating cards, cartoon robots, or generic stock imagery of people pointing at laptops.
+
+## 3. SITE MAP
+
+Create these pages:
+
+1. Home
+2. Solutions
+3. Industries
+4. How It Works
+5. Work / Case Studies
+6. About Nexamor
+7. Contact / Book a Strategy Call
+8. Privacy Policy
+9. Terms of Service
+
+Use a consistent navigation system and footer across the site.
+
+The homepage must explain the value proposition immediately, while deeper pages provide enough information for a business owner to understand the solutions, implementation process, and next step.
+
+## 4. HOMEPAGE HERO: SELL THE OUTCOME
+
+Design a compelling, high-conversion hero section.
+
+Suggested headline:
+
+**Your business deserves better than missed calls and manual follow-ups.**
+
+Supporting copy:
+
+"Nexamor designs and integrates AI-powered systems that help service businesses answer enquiries, book appointments, recover missed opportunities, and simplify daily operations."
+
+Primary CTA: "Book a Strategy Call"
+
+Secondary CTA: "Explore Our Solutions"
+
+Small trust statement:
+
+"Built around your workflows. Designed for real business operations."
+
+Do not fabricate customer counts, revenue recovery figures, uptime statistics, response latency, or certifications.
+
+### Hero visual
+
+Create an original, sophisticated visual that illustrates a connected business workflow:
+
+Incoming customer enquiry → AI conversation → qualification → booking or dispatch → CRM update → follow-up.
+
+Use a clean, high-quality interface visualization or animated workflow diagram. It should communicate a working system, not a fictional screenshot of a deployed customer product.
+
+Add subtle motion only where it improves understanding.
+
+## 5. THE PROBLEM: WHERE BUSINESS OPPORTUNITIES DISAPPEAR
+
+Create a section titled:
+
+**Your customers don't wait for your workflow to catch up.**
+
+Explain the common operational problems businesses face:
+
+- Calls arriving while staff are serving customers.
+- After-hours enquiries waiting until the next day.
+- Appointment requests lost between phone calls and calendars.
+- Repetitive questions consuming valuable staff time.
+- Leads that never receive a follow-up.
+- Information scattered across booking tools, inboxes, spreadsheets, and CRMs.
+- Manual handovers between sales, service, and operations.
+
+Use relatable examples for each target industry.
+
+For home services, show the risk of missing urgent enquiries.
+
+For salons, show interruptions during appointments and booking-related calls.
+
+For dental practices, show administrative pressure from appointment requests, rescheduling, and routine questions.
+
+For automotive businesses, show repeated status enquiries and service booking coordination.
+
+Explain that these are potential operational problems, not claims that every business experiences them.
+
+End with:
+
+**The problem isn't that your team isn't working hard enough. It's that too much depends on manual processes.**
+
+CTA: "Find Your Automation Opportunities"
+
+## 6. SOLUTIONS: OUR AI INFRASTRUCTURE
+
+Create a premium solutions page and homepage section with six solution areas.
+
+### A. AI Voice Agents
+
+AI-powered voice systems that can handle supported customer conversations, answer configured questions, capture information, qualify enquiries, and route calls.
+
+Include capabilities such as:
+- Inbound call handling.
+- Configured FAQs.
+- Customer intent identification.
+- Call routing and escalation.
+- Enquiry capture.
+- After-hours coverage.
+- Human handoff when needed.
+
+Do not promise sub-300ms latency or perfect human-like conversations unless verified by the implemented technology.
+
+### B. Appointment Booking and Management
+
+Systems that can connect supported voice or chat workflows to calendars and booking platforms.
+
+Potential features:
+- Availability lookup.
+- Appointment creation.
+- Rescheduling and cancellation.
+- Confirmation messages.
+- Reminder workflows.
+- Staff or service selection.
+- Human approval where necessary.
+
+Clearly distinguish features that depend on an external integration from features already implemented.
+
+### C. Missed-Call and Lead Recovery
+
+Create workflows for capturing eligible missed-call opportunities, following up with customers, and routing enquiries to the right team.
+
+Explain that follow-up depends on the business's telephony setup, customer permissions, and integration capabilities.
+
+### D. AI Receptionist and Customer Support
+
+Automate routine enquiries, business hours, service information, and common customer questions.
+
+Include escalation to staff for complex, sensitive, or urgent matters.
+
+### E. CRM and Business Workflow Integration
+
+Connect AI systems to supported calendars, CRMs, booking platforms, field-service software, and internal workflows.
+
+Potential integrations may include Jobber, Housecall Pro, ServiceTitan, Google Calendar, and other systems when supported by an actual implementation.
+
+Do not label integrations "native" or "available" until they have been implemented and tested.
+
+### F. Custom AI Automation
+
+Build tailored systems for:
+- Lead qualification.
+- Data entry and synchronisation.
+- Document and email processing.
+- Reporting workflows.
+- Internal business assistants.
+- Repetitive administrative tasks.
+- API integrations and custom business tools.
+
+CTA: "Discuss Your Workflow"
+
+## 7. INDUSTRIES: SHOW THAT WE UNDERSTAND THEIR BUSINESS
+
+Create an interactive industries section with individual cards and dedicated industry pages or detailed expandable sections.
+
+### Home Services
+
+Industries: plumbing, HVAC, electrical, pest control, locksmiths, and relevant contractors.
+
+Headline: "Every urgent enquiry deserves a clear next step."
+
+Show call answering, emergency enquiry qualification, job booking, dispatch workflows, and lead follow-up.
+
+### Salons and Hairdressers
+
+Headline: "Keep serving your clients while your booking system handles the next enquiry."
+
+Show appointment requests, service FAQs, rescheduling, booking confirmations, and routine customer communication.
+
+### Dental and Healthcare Clinics
+
+Headline: "Reduce administrative friction around appointments."
+
+Show general appointment enquiries, rescheduling, opening-hours information, reminders, and reception workflow support.
+
+Include appropriate privacy protections, access controls, and human escalation. Do not present AI as a replacement for clinical judgement or a source of medical advice.
+
+### Automotive Workshops
+
+Headline: "Turn repetitive calls into organised service workflows."
+
+Show service booking requests, repair-status enquiry routing, customer follow-ups, and workshop scheduling.
+
+### Other Appointment-Based Businesses
+
+Support physiotherapy, veterinary clinics, beauty services, pet grooming, fitness studios, and similar businesses.
+
+For every industry, include:
+- Main operational challenge.
+- Example workflow.
+- Proposed automation.
+- Expected operational benefit.
+- CTA to discuss suitability.
+
+Do not promise guaranteed financial outcomes.
+
+## 8. HOW IT WORKS: A CLEAR IMPLEMENTATION PROCESS
+
+Create a visually strong five-stage section.
+
+**01. Discover**
+
+We learn about the business, current tools, customer journey, operational bottlenecks, and goals.
+
+**02. Map**
+
+We design the workflow, define system boundaries, determine integrations, and identify when human intervention is required.
+
+**03. Build**
+
+We configure or develop the AI components, business logic, integrations, and supporting infrastructure.
+
+**04. Test and Deploy**
+
+We test real scenarios, failure handling, escalation, booking accuracy, data security, and operational readiness before deployment.
+
+**05. Improve**
+
+We monitor agreed performance indicators, address issues, and refine workflows based on actual results.
+
+Include a workflow diagram and clear deliverables for each stage.
+
+Do not promise a universal 48-hour deployment. Timelines depend on the business, integrations, and project scope.
+
+## 9. WORK / CASE STUDIES: BUILD TRUST HONESTLY
+
+Create a visually compelling portfolio section called:
+
+**Built with purpose. Designed around real workflows.**
+
+This section must look professional and substantial without fabricating previous clients or deployments.
+
+Use the following rules:
+
+- Never invent client names, testimonials, logos, revenue figures, performance improvements, deployment statistics, or client approval.
+- Do not describe a prototype as a live production deployment.
+- Do not imply that a demo has been purchased or used by an external business.
+- Clearly label prototypes, internal tools, concept projects, and verified client work.
+- Allow actual portfolio projects to be added later without redesigning the page.
+
+### Initial portfolio project 1: AI Voice Receptionist
+
+Status: Concept / Demonstration until verified.
+
+Create a realistic interactive demo interface showing:
+- A simulated incoming call.
+- AI greeting.
+- Intent identification.
+- Appointment request.
+- Structured booking summary.
+- Escalation to a human when required.
+
+Clearly label simulated conversations and demonstration data.
+
+### Initial portfolio project 2: Appointment Automation System
+
+Status: Prototype / Demonstration until verified.
+
+Show a workflow for an illustrative salon or dental practice:
+- Customer submits a booking request.
+- The system checks configured availability.
+- A booking is confirmed only after the booking system accepts it.
+- The CRM or database records the appointment.
+- A confirmation message is prepared or sent through a configured provider.
+
+Do not imply that the demo is connected to a real business calendar unless it actually is.
+
+### Initial portfolio project 3: Nexamor ClientHunter AI
+
+Status: Internal product / In development until verified.
+
+Present the product as an internal prospecting system designed to discover Australian businesses, evaluate publicly observable automation opportunities, organise leads, and prepare personalised outreach.
+
+Only claim implemented capabilities that can be demonstrated.
+
+### Initial portfolio project 4: Business Workflow Automation
+
+Status: Concept / Demonstration until verified.
+
+Show an illustrative process connecting an enquiry form, validation, database, notification, and follow-up task.
+
+### Case study template
+
+Every project must support:
+- Project name.
+- Project status.
+- Problem statement.
+- Intended audience.
+- Solution architecture.
+- Workflow diagram.
+- Technologies used.
+- Features demonstrated.
+- Testing performed.
+- Limitations.
+- Screenshots or demo.
+- Verified results, if any.
+
+For future verified client projects, support real outcomes with evidence and client permission.
+
+Use polished diagrams, UI mockups, and functional demonstrations to make concept work visually convincing without misrepresenting its status.
+
+## 10. WHY NEXAMOR: OUR DIFFERENTIATION
+
+Create a section titled:
+
+**We don't bolt AI onto your business. We design around how it actually works.**
+
+Contrast traditional disconnected automation with Nexamor's proposed approach.
+
+Traditional disconnected tools:
+- Work in isolation.
+- Depend on manual data entry.
+- Lose context between systems.
+- Offer limited escalation.
+- Create additional administrative work.
+
+Nexamor's approach:
+- Starts with the actual workflow.
+- Connects supported systems.
+- Preserves useful context.
+- Defines human escalation paths.
+- Includes testing and operational safeguards.
+- Is designed around measurable business objectives.
+
+Avoid unsupported claims about competitors. Keep the comparison professional and evidence-based.
+
+## 11. ROI AND OPPORTUNITY CALCULATOR
+
+Build a genuinely functional interactive calculator.
+
+Inputs:
+- Number of inbound enquiries per week.
+- Estimated proportion currently unanswered.
+- Estimated proportion of unanswered enquiries that represent genuine potential jobs or bookings.
+- Average job value or booking value.
+- Estimated contribution margin, optional.
+- Estimated recovery rate after automation.
+- Estimated implementation and ongoing costs.
+
+Outputs:
+- Estimated unanswered enquiries per month.
+- Estimated potentially valuable enquiries.
+- Illustrative potential recovered revenue.
+- Illustrative contribution before automation costs.
+- Estimated net impact after entered costs.
+- Break-even estimate where inputs allow it.
+
+Use clearly defined formulas and show the assumptions.
+
+For example:
+
+Potential recovered revenue = monthly enquiries × unanswered proportion × qualified-opportunity proportion × average transaction value × assumed recovery rate.
+
+Make it clear that this is a scenario estimate, not a forecast or guarantee.
+
+Do not prefill the calculator with sensational loss claims. Use conservative illustrative defaults and label them clearly.
+
+## 12. OUR ENGAGEMENT MODEL
+
+Explain how a business can work with Nexamor.
+
+### Workflow Audit
+
+Understand the existing customer journey, identify bottlenecks, and prioritise potential automation opportunities.
+
+### Pilot Implementation
+
+Build and test a focused solution around one agreed workflow.
+
+### Integration and Deployment
+
+Connect the approved solution to the business's supported tools and operating processes.
+
+### Ongoing Improvement
+
+Offer maintenance, monitoring, and iterative improvements where agreed.
+
+Do not invent a pricing guarantee, a fixed deployment timeline, or a "pay only after results" offer.
+
+Use a CTA: "Discuss a Project"
+
+If pricing is not yet finalised, invite businesses to request a scoped proposal.
+
+## 13. BOOK A STRATEGY CALL
+
+Create a dedicated conversion section and contact page.
+
+Headline:
+
+**Let's find the workflow holding your business back.**
+
+Supporting text:
+
+"Tell us how your business handles calls, enquiries, and appointments. We'll discuss where automation may help, what should remain human-led, and what a practical first implementation could look like."
+
+Create a form with:
+- Full name.
+- Business name.
+- Work email.
+- Business phone, optional.
+- Website, optional.
+- Industry.
+- Australian state or city.
+- Approximate business size, optional.
+- Main operational challenge.
+- Preferred contact method.
+- Optional project details.
+
+Add appropriate consent and privacy notices.
+
+Implement real validation, loading states, success and error states, and secure submission.
+
+Connect the form to a configured backend or database. If email notifications are desired, implement them through a configured provider. Never show a fake success message when submission fails.
+
+If no backend is configured, clearly mark the required setup and provide a working local development flow.
+
+Do not invent a telephone number, email address, street address, or calendar link.
+
+Keep contact details configurable through environment variables or an admin settings area.
+
+## 14. INTERACTIVE AI WORKFLOW DEMO
+
+Include a section titled:
+
+**See what an automated customer journey could look like.**
+
+Build a self-contained demo where visitors can choose an illustrative business type:
+- Plumber.
+- Hair salon.
+- Dental practice.
+- Automotive workshop.
+
+Display a simulated customer enquiry and walk through:
+1. Customer intent detected.
+2. Required information collected.
+3. Booking or routing decision.
+4. Human escalation when necessary.
+5. Summary prepared for the business.
+
+For appointment demonstrations, use simulated availability unless a real calendar integration is configured.
+
+Label the demo clearly as a simulation. Do not claim that it places real calls, books actual appointments, or accesses a live CRM.
+
+The interaction should be fast, polished, and genuinely useful for explaining the product.
+
+## 15. ABOUT NEXAMOR
+
+Position Nexamor as an engineering-led AI automation partner focused on practical implementation.
+
+Suggested copy:
+
+"At Nexamor, we believe useful AI is measured by what it helps a business accomplish. We focus on the systems behind customer communication, appointment workflows, and daily operations, bringing AI, software engineering, and integrations together around real business needs."
+
+Include principles:
+- Practical engineering over hype.
+- Business-first problem solving.
+- Transparent scope and limitations.
+- Human oversight where appropriate.
+- Security-conscious design.
+- Continuous improvement based on evidence.
+
+Do not fabricate a founding story, team size, employee biographies, years of experience, certifications, or client portfolio.
+
+Use real team details only when supplied and verified. Until then, use a brand-led presentation without invented personal claims.
+
+## 16. FAQ
+
+Include useful questions such as:
+- What is an AI Transformation Partner?
+- Is this just a chatbot?
+- Can an AI voice agent book appointments?
+- Can Nexamor integrate with our existing CRM?
+- Can it handle after-hours enquiries?
+- What happens when a call requires a human?
+- Can we start with one workflow?
+- How do you handle business data?
+- How long does implementation take?
+- How much does it cost?
+- Does AI replace our staff?
+- How do you measure success?
+
+Answers must be practical, honest, and dependent on actual capabilities. Explain that integration availability, implementation timelines, pricing, and outcomes vary by project.
+
+## 17. PRIVACY, SECURITY, AND LEGAL PAGES
+
+Create professional Privacy Policy and Terms of Service pages with appropriate structure.
+
+Cover:
+- Information collected through the website.
+- How enquiries are processed.
+- Contact and marketing preferences.
+- Third-party integrations.
+- Data retention and deletion requests.
+- Security practices and their limitations.
+- Cookies and analytics if used.
+- User rights and contact procedures.
+- Service limitations and acceptable use.
+
+Do not falsely claim SOC 2 certification, ISO certification, a completed security audit, or compliance with a specific standard.
+
+Use clearly marked configuration placeholders where legal business details are not supplied. Treat legal copy as a draft requiring review for the business's actual jurisdiction and operations.
+
+## 18. TECHNICAL REQUIREMENTS
+
+Build reusable components for:
+- Navigation.
+- Hero.
+- Solution cards.
+- Industry sections.
+- Workflow diagrams.
+- Case study cards.
+- Calculator.
+- Demo interaction.
+- FAQ.
+- Contact form.
+- Footer.
+- CTA sections.
+
+Requirements:
+- Responsive design.
+- Accessible keyboard navigation.
+- Semantic HTML.
+- Good colour contrast.
+- Form validation.
+- Loading, success, empty, and error states.
+- Optimised image loading.
+- Responsive typography.
+- Clean URL routing.
+- Page titles and meta descriptions.
+- Open Graph metadata.
+- Sitemap and robots configuration.
+- Structured data only where appropriate.
+- Analytics only when configured.
+- No exposed secrets.
+- No broken internal navigation.
+- No dead buttons.
+- No fake integrations.
+- No console errors in the main user journey.
+
+Implement real form submission and persistence when backend credentials are configured.
+
+Use environment variables for all secrets and provide an example environment configuration with placeholders, never real credentials.
+
+## 19. CONVERSION AND SEO STRATEGY
+
+Optimise the website for relevant Australian search intent, including:
+- AI voice agents for Australian businesses.
+- AI receptionist for service businesses.
+- Automated appointment booking.
+- Missed-call follow-up automation.
+- AI call handling for plumbers.
+- AI booking systems for salons.
+- AI reception workflows for dental practices.
+- Business workflow automation Australia.
+
+Use these naturally within relevant pages. Do not keyword-stuff.
+
+Create unique metadata for each page, descriptive headings, internal links, accessible images, and useful original content.
+
+Do not claim search rankings or guaranteed traffic growth.
+
+## 20. FINAL ACCEPTANCE CRITERIA
+
+The website is not complete until:
+
+1. All primary pages exist and are navigable.
+2. The homepage clearly explains Nexamor's offer.
+3. Each target industry has relevant content.
+4. Every CTA has a meaningful action.
+5. The ROI calculator works and explains its assumptions.
+6. The workflow demo works and labels simulated data.
+7. The portfolio distinguishes prototypes from verified client work.
+8. The contact form validates input and handles backend errors.
+9. Navigation and layout work on mobile.
+10. Metadata and accessibility basics are implemented.
+11. No invented testimonials, client logos, revenue figures, or certifications appear.
+12. No unsupported integration or performance claims appear.
+13. The project builds successfully.
+14. Main user journeys are tested.
+15. External configuration requirements are documented.
+
+## EXECUTION INSTRUCTIONS
+
+Start by inspecting the existing project and available environment.
+
+Then implement the complete website using the supported stack. Prioritise the design, core pages, real interactions, and honest presentation of Nexamor's current capabilities.
+
+Do not return only a plan or design description. Build the actual website, test it, fix errors, and report what is complete and what still requires credentials, content, legal review, or real deployment.
+
+The final result should feel like a premium, credible Australian-facing AI infrastructure brand: persuasive enough to generate qualified enquiries, technically grounded enough to earn trust, and honest enough to represent Nexamor professionally.
